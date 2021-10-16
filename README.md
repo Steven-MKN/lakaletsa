@@ -1,3 +1,12 @@
+# Description
+
+## Color scheme
+
+-  primary color: #63948C
+-  secondary color: #2E303F
+-  accent color: #C24332
+-  background color: #F5F5F5
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
