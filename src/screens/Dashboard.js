@@ -15,6 +15,7 @@ import ComingSoon from '../commonComponents/ComingSoon'
 import AddItem from './AddItem'
 import { useSelector } from 'react-redux'
 import ItemView from './ItemView'
+import FriendsView from './FriendsView'
 
 function Dashboard() {
    const globalStyles = useGlobalStyles()
@@ -40,7 +41,7 @@ function Dashboard() {
                <ItemView />
             </Route>
             <Route path="/dashboard/friends">
-               <ComingSoon />
+               <FriendsView />
             </Route>
             <Route path="/dashboard/profile">
                <ComingSoon />
